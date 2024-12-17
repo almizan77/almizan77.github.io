@@ -3,7 +3,7 @@
 title: "Latif Almizan"
 
 # Name pronunciation (optional)
-name_pronunciation: Mr Lord
+name_pronunciation: almizan
 
 # Full name (for SEO)
 first_name: Latif
@@ -11,7 +11,7 @@ last_name: Almizan
 
 # Status emoji
 status:
-  icon: https://www.bing.com/ck/a?!&&p=875f81ae4e07c6d945821f32370445dc8e95e7758fdf38c70bc3a7441ebe64e6JmltdHM9MTczNDMwNzIwMA&ptn=3&ver=2&hsh=4&fclid=23cf4980-742f-6f3a-14a3-5c8575796e26&u=a1L2ltYWdlcy9zZWFyY2g_cT1pY29uZSUyMG0mRk9STT1JUUZSQkEmaWQ9OENCNzI4QTMxMkNENzY3ODczMTY4M0E0MkY3QjZCQUM5MkNEMjQzOQ&ntb=1
+  icon: 🧒
 
 # Is this the primary user of the site?
 superuser: true
