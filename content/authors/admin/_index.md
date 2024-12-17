@@ -1,6 +1,6 @@
 ---
 # Display name
-title: "Latif Almizan"
+title: ""
 
 # Name pronunciation (optional)
 name_pronunciation: almizan
@@ -11,7 +11,7 @@ last_name: Almizan
 
 # Status emoji
 status:lajang
-  icon:![alt text](image.png)
+  icon:🧒
 
 # Is this the primary user of the site?
 superuser: true
@@ -19,12 +19,12 @@ superuser: true
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
-# Role/position/tagline
+# Role/position/taglin
 role: Mahasiswa RPL
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
+  - name: Data Analysis
     url: https://openai.com/
 
 # Social network links
