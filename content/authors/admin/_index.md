@@ -24,7 +24,7 @@ role: Mahasiswa RPL
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Data Analysis
+  - name: Analiysis Data
     url: https://openai.com/
 
 # Social network links
@@ -47,17 +47,17 @@ profiles:
     url: https://orcid.org/
 
 interests:
-  - Membaca buku
-  - Bersosialiasasi
-  - Berolahraga lari
+  - Read a book
+  - socializatinon
+  - Badminton Sport
 
 education:
   - area: Rekayasa Perangkat Lunak
-    institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah
+    institution: Institut Teknologi Statistika dan Bisnis Muhammadiyah semarang
     date_start: 2023-10-31
     date_end: 2027-10-31
     summary: |
-      Saya sangat belajar coding bersama kawan - kawan saya
+      Saya sangat senang belajar coding bersama kawan-kawan saya
     button:
       text: 'Read Thesis'
       url: 'https://example.com'
@@ -101,7 +101,7 @@ work:
     company_logo: ''
     date_start: 2016-01-01
     date_end: 2020-12-31
-    summary: |
+    summary: |shopee
       Responsibilities include:
       - Migrated infrastructure to a new data center
       - lorem ipsum dolor sit amet, consectetur adipiscing elit
@@ -111,7 +111,7 @@ work:
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
-    items:
+    items:  
       - name: Python
         description: ''
         percent: 80
