@@ -10,8 +10,8 @@ first_name: Latif
 last_name: Almizan
 
 # Status emoji
-status:
-  icon: 🧒
+status:lajang
+  icon:![alt text](image.png)
 
 # Is this the primary user of the site?
 superuser: true
