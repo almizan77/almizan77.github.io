@@ -4,7 +4,7 @@
   --secondary-color: #785ab1;
   --extra-light: #ffffff;
   --white: #f3f4f6;
-  --gradient-1: linear-gradient(to bottom right, #d887d7, #0163a5);#d887d7 #0163a5
+  --gradient-1: linear-gradient(to bottom right, #d887d7, #0163a5);
   --gradient-2: linear-gradient(
     to bottom,
     var(--primary-color),
