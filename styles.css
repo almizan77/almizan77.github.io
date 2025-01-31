@@ -1,14 +1,16 @@
 
 :root {
-  --primary-color: #b1679d;
-  --secondary-color: #785ab1;
-  --extra-light: #ffffff;
-  --white: #f3f4f6;
-  --gradient-1: linear-gradient(to bottom right, #d887d7, #0163a5);
+  --primary-color:  #ffd700;
+  --secondary-color: #dda0dd;
+  --extra-light: #e6e6fa;
+  --white: #f0f8ff;
+  --gradient-1: linear-gradient(to bottom right, #ffb6c1, #e0ffff);
   --gradient-2: linear-gradient(
     to bottom,
-    var(--primary-color),
-    var(--secondary-color)
+    #e0ffff,
+    #dda0dd
+    #e6e6fa
+    #f0f8ff
   );
   --max-width: 1200px;
 }
