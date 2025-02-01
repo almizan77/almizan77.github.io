@@ -1,14 +1,14 @@
 
 :root {
   --primary-color:  #1e90ff;
-  --secondary-color: #32cd32;
-  --extra-light: #1e90ff;
-  --white: #ffffff;
-  --gradient-1: linear-gradient(to bottom right, #1e90ff, #32cd32);
+  --secondary-color: #3cb371;
+  --extra-light: #afeeee;
+  --white:  #ffffff;
+  --gradient-1: linear-gradient(to bottom right, #1e90ff, #3cb371);
   --gradient-2: linear-gradient(
     to bottom,
     #e0ffff,
-    #32cd32d,
+    #e0ffff
     #1e90ff
   );
   --max-width: 1200px;
