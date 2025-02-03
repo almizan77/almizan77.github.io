@@ -268,7 +268,7 @@ nav {
 }
 
 .portfolio__grid {
-  margin-top: 1rem;
+  margin-top: 5rem;
   display: grid;
   gap: 1rem;
 }
