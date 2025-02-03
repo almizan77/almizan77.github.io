@@ -14,6 +14,8 @@ Ikuti langkah-langkah berikut untuk menginstal dan mengkonfigurasi proyek ini.
    git clone https://github.com/username/repository-name.git
 
 * Tapi karena dalam pembuatan CV ini saya menggunakan tamplate buatan temen saya, jadi saya tidak menginstal Hugo
+# Langkah pertama saya buka link buatan temen saya, lalu saya pilih file Index.html, setelah itu saya copy codingan tmen saya
+  terus saya copy ke VS Code, setelah semua codingan sudah selesai diedit saya upload ke Github
 
 # Tautan ke situs blog yang sudah dipublikasi
 https://almizan77.github.io/
