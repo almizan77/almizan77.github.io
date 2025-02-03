@@ -1,10 +1,10 @@
 
 :root {
-  --primary-color: #23036A;
-  --secondary-color: #30009C;
-  --extra-light: #3700B3;
-  --white: #5600E8;
-  --gradient-1: linear-gradient(to bottom right, #6200EE, #6022EE);
+  --primary-color: #785ab1;
+  --secondary-color: #b1679d;
+  --extra-light:  #f3f4f6;
+  --white: #ffffff;
+  --gradient-1: linear-gradient(to bottom right, #0163a5,  #d887d7);
   --gradient-2: linear-gradient(
     to bottom,
     var(--primary-color),
