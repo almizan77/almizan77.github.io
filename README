@@ -1,0 +1,19 @@
+# Langkah instalasi dan konfigurasi proyek
+
+Ikuti langkah-langkah berikut untuk menginstal dan mengkonfigurasi proyek ini.
+
+## Langkah Instalasi:
+
+1. **Pastikan Anda sudah menginstal Hugo di sistem Anda.** Ikuti [panduan instalasi Hugo](https://gohugo.io/getting-started/installing/) jika belum menginstal.
+   
+2. **Unduh proyek ini dengan menjalankan perintah berikut di terminal:**
+   
+   Buka terminal atau command prompt, lalu jalankan perintah berikut untuk mengkloning repository ini ke komputer lokal Anda:
+   
+   ```bash
+   git clone https://github.com/username/repository-name.git
+
+* Tapi karena dalam pembuatan CV ini saya menggunakan tamplate buatan temen saya, jadi saya tidak menginstal Hugo
+
+# Tautan ke situs blog yang sudah dipublikasi
+https://almizan77.github.io/
